@@ -1,5 +1,5 @@
 # Greeter - A Discord Bot
-#### Video Demo: https://youtu.be/H6EVuyUTVCg
+
 ### Description:
 Greeter bots only provide users with news headlines and weather information.
 I used Replit to host my bot's backend and the Discord developer platform to design it.
